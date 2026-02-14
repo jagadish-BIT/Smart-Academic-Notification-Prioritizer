@@ -1,5 +1,3 @@
-# Smart Academic Notification Prioritizer System
-
 A modern, intelligent notification management system designed for academic institutions to efficiently manage and prioritize student notifications.
 
 ## 🚀 Features
@@ -303,3 +301,5 @@ For issues and questions, please review the documentation or check the GitHub is
 
 **Last Updated**: February 13, 2026
 **Version**: 1.0.0
+
+# Smart-Academic-Notification-Prioritizer
